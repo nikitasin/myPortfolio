@@ -1,0 +1,7 @@
+.skill-box {
+    display: flex;
+}
+.progressBar {
+margin: auto;
+width: 75%;
+}

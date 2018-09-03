@@ -1,0 +1,30 @@
+[
+    {
+      "id": "1",
+      "img": "https://www.sickchirpse.com/wp-content/uploads/2016/09/HTML.jpg",
+      "pagelink": "https://nikitasin.github.io/fe-core-hw/module-10/Gallery.html",
+      "sourcelink": "https://github.com/nikitasin/fe-core-hw/tree/master/module-10",
+      "descr":"Responsive, Кросбраузерная верста, спрайты"
+    },
+    {
+        "id": "2",
+        "img": "https://www.sickchirpse.com/wp-content/uploads/2016/09/HTML.jpg",
+        "pagelink": "https://nikitasin.github.io/fe-core-hw/module-9/Tours.html",
+        "sourcelink": "https://github.com/nikitasin/fe-core-hw/tree/master/module-9",
+        "descr":"Bootstrap-About/Gallery/Tours"
+      },
+      {
+        "id": "3",
+        "img": "https://www.sickchirpse.com/wp-content/uploads/2016/09/HTML.jpg",
+        "pagelink": "https://nikitasin.github.io/fe-core-hw/module-8/Gallery.html",
+        "sourcelink": "https://github.com/nikitasin/fe-core-hw/tree/master/module-8",
+        "descr":"Flexbox, адаптив,переломныe точки"
+      },
+      {
+        "id": "4",
+        "img": "https://www.sickchirpse.com/wp-content/uploads/2016/09/HTML.jpg",
+        "pagelink": "https://nikitasin.github.io/fe-core-hw/module-7/Home.html",
+        "sourcelink": "https://github.com/nikitasin/fe-core-hw/tree/master/module-7",
+        "descr":"Flexbox"
+      }
+  ]

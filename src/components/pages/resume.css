@@ -1,0 +1,27 @@
+.resume-right-col{
+    background: #27221f;
+    color: #ffffff;
+    padding: 2%;
+}
+.resume-right-col hr {
+    border-top: 3px solid #e22947;
+}
+.resume-left-col h2 {
+    padding-top: 2%;
+}
+.resume-left-col h4 {
+    color: gray;
+}
+.resume-left-col hr {
+    border-top: 3px solid #833fb2;
+    width: 50%;
+}
+.resume-left-in {
+    text-align: center;
+}
+.resume-left-in img{
+    width: 200px;
+}
+.hr-width{
+    width: 100% !important;
+}

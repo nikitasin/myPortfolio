@@ -1,0 +1,13 @@
+.header-color{
+    background: #9CECFB;
+    background: -webkit-linear-gradient(to bottom, #0052D4, #65C7F7, #9CECFB);
+    background: linear-gradient(to bottom, #0052D4, #65C7F7, #9CECFB);
+}
+.header-link{
+    text-decoration: none;
+    color: #ffffff;
+}
+.header-link-color {
+    text-decoration: none;
+    color: #000000;
+}

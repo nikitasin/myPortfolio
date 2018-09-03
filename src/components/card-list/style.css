@@ -1,0 +1,8 @@
+li {
+    list-style-type: none;
+}
+.projects-grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
